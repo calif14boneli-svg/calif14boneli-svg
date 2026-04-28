@@ -7,10 +7,15 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
+
 🌱 Estoy profundizando mis conocimientos en Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.
+
 ✍️ En mi tiempo libre, me dedico a desarrollo web y buscar nuevas tecnologias que puedan servirme en mis trabajos.
+
 💬 No dudes en contactarme para consultoría gratuita, voluntariado o simplemente para conversar.
+
 ✉️ Puedes escribirme a calif14boneli@gmail.com Respondere lo antes posible.
+
 📄 Consulta mi [Linkedin](https://www.linkedin.com/in/calif-espinoza-cuya-4752a1187/) para obtener más información sobre mí. ¡Agradezco comentarios y sugerencias!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
