@@ -6,13 +6,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
+🌱 Estoy profundizando mis conocimientos en Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.
+✍️ En mi tiempo libre, me dedico a desarrollo web y buscar nuevas tecnologias que puedan servirme en mis trabajos.
+💬 No dudes en contactarme para consultoría gratuita, voluntariado o simplemente para conversar.
+✉️ Puedes escribirme a calif14boneli@gmail.com Respondere lo antes posible.
+📄 Consulta mi [Linkedin](https://www.linkedin.com/in/calif-espinoza-cuya-4752a1187/) para obtener más información sobre mí. ¡Agradezco comentarios y sugerencias!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
