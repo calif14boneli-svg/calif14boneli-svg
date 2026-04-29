@@ -4,7 +4,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mi:
 
 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
 
